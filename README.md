@@ -5,7 +5,8 @@ I aim to deconstruct famous paintings into blocky colors, showing its structure 
 ### Examples
 ![An image of the falling particle](https://nftnow.com/wp-content/uploads/2023/02/16-700x875.png)
 It is an image of the falling particles.
-![Convert the original image into blocky colors](https://aitoolmall.com/wp-content/uploads/2023/03/Stablecog2-1.png)
+![Convert the original image into blocky colors](https://img.zcool.cn/community/0129376152dc1811013e8943fdfefa.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100)
+![Convert the original image into blocky colors](https://img.zcool.cn/community/016db75e675666a80120a895d16cb6.jpg@1280w_1l_2o_100sh.jpg)
 I will convert the famous painting provided by our assignment to the blocky colors like this.
 ## Part 2: Coding Technique Exploration
 ### Instruction
